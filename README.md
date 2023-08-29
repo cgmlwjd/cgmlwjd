@@ -1,6 +1,5 @@
 <div align="center">
-:hand: Introducation <br>
-안녕하세요! 현재 백엔드를 공부하고 있습니다.<br><br>
+:hand: 안녕하세요! 현재 백엔드를 공부하고 있습니다.<br><br>
 
 :sunflower: Studying <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
