@@ -1,7 +1,8 @@
 <div align="center">
-:hand: 안녕하세요! :hand: <br>현재 백엔드를 공부하고 있습니다.<br><br>
+✋ 안녕하세요! ✋<br>
+현재 백엔드를 공부하고 있습니다.
 
-📖 Studying 📖<br><br>
+## 📖 Studying 📖
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
